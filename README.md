@@ -1,4 +1,4 @@
-# Bachelor-project
+# Bachelor-project-repository
 A repo for the files used in my bachelors thesis.
 
 This project only works with the 'Advection' project by Matthias Wiesenberger.
